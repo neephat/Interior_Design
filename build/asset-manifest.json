@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be00c315.css",
+    "main.js": "/static/js/main.6fa87520.js",
+    "static/media/image-one.svg": "/static/media/image-one.447caf1eb31a2127c23544c1c958dfc0.svg",
+    "static/media/image-two.svg": "/static/media/image-two.b3b47f6a3eac670eec30861935e28549.svg",
+    "static/media/hero-image.svg": "/static/media/hero-image.ca2c6b80cd542bc9d87c5cc92aada6af.svg",
+    "static/media/image-three.svg": "/static/media/image-three.382a1b8ded521eac9609ae428258c088.svg",
+    "static/media/image-four.svg": "/static/media/image-four.a329eb0d11f6236c531f8cd1fa602688.svg",
+    "static/media/produc-two.svg": "/static/media/produc-two.ed0b2e46ea4d3b271a1ff1dabec9deab.svg",
+    "static/media/product-three.svg": "/static/media/product-three.18f558b239e0222b7747a4030fc31062.svg",
+    "static/media/product-one.svg": "/static/media/product-one.9508b14a609f982b0a2f604ddbac36ab.svg",
+    "static/media/logo.svg": "/static/media/logo.a26849854e1f188a5f20a4a0d4d053da.svg",
+    "static/media/sun-icon.svg": "/static/media/sun-icon.8b253686c39fbffd17f909a4988b30e0.svg",
+    "static/media/plant-icon.svg": "/static/media/plant-icon.4ff21eeb5cb7160a085053620e195e70.svg",
+    "static/media/stars-icon.svg": "/static/media/stars-icon.7aedef0452311bf95bc120cb5d375d47.svg",
+    "static/media/free-shiping-icon.svg": "/static/media/free-shiping-icon.613156b44e46bef9d78642d3190611f6.svg",
+    "static/media/temperature-icon.svg": "/static/media/temperature-icon.269d1bd0e6c38038960f5485e7a7e349.svg",
+    "static/media/quick-payment-icon.svg": "/static/media/quick-payment-icon.61855b619a93598f94bdcfe3846b7f62.svg",
+    "static/media/cart-icon.svg": "/static/media/cart-icon.1e7f1e28b266e1a6c28c338d71215e08.svg",
+    "static/media/search-icon.svg": "/static/media/search-icon.b58e71382d36ef34bface173c342e363.svg",
+    "static/media/water-icon.svg": "/static/media/water-icon.b435400ed14af12331e17351f383cf61.svg",
+    "static/media/support-icon.svg": "/static/media/support-icon.74552ad7f2dfa330069d29d3e5fba3ac.svg",
+    "static/media/plus-icon.svg": "/static/media/plus-icon.d251ef1709aab5ad0879bd5623c1b8d3.svg",
+    "static/media/arrow-icon.svg": "/static/media/arrow-icon.460616d3c1ded19e7866ec27cd0716c6.svg",
+    "index.html": "/index.html",
+    "main.be00c315.css.map": "/static/css/main.be00c315.css.map",
+    "main.6fa87520.js.map": "/static/js/main.6fa87520.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be00c315.css",
+    "static/js/main.6fa87520.js"
+  ]
+}

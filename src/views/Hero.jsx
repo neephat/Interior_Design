@@ -45,7 +45,8 @@ const Hero = () => {
     >
       <div className="relative w-full max-w-[1490px] flex items-center justify-between px-10 mx-auto pt-10">
         {/* Navbar Logo */}
-        <img src={logo} alt="" />
+        {/* <img src={logo} alt="" /> */}
+        <a href="/" className="text-4xl text-white font-semibold">Home Decor</a>
         {/* Menu Items */}
         <ul className="hidden md:flex items-center gap-10 lg:gap-[68px]">
           <NavLink to="services">Services</NavLink>
